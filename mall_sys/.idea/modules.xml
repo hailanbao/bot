@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-admin/mall-admin.iml" filepath="$PROJECT_DIR$/mall-admin/mall-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-mpbg/mall-mpbg.iml" filepath="$PROJECT_DIR$/mall-mpbg/mall-mpbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-protal/mall-protal.iml" filepath="$PROJECT_DIR$/mall-protal/mall-protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-security/mall-security.iml" filepath="$PROJECT_DIR$/mall-security/mall-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall_sys.iml" filepath="$PROJECT_DIR$/mall_sys.iml" />
+    </modules>
+  </component>
+</project>
